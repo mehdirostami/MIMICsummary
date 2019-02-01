@@ -1,8 +1,10 @@
 
 The following tables are available data in the MIMIC iii database. The documentation page is copied below. 
-Please quickly consult with this page if content of some of the tables of variables are not clear to you.
-The list of tables is in the left. Click on the table and you will see the list of variables and their decription.
+Please quickly consult with this page if content of some of the tables or variables are not clear to you.
+
 https://mimic.physionet.org/mimictables/inputevents_cv/
+
+The list of tables is in the left of the page. Click on the table and you will see the list of variables and their decription.
 
 
 ```python
